@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">レべリングアラーム</string>
+    <string name="title_setting">セット</string>
+    <string name="Level">Lv.</string>
+</resources>

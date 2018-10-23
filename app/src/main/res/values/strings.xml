@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EL_LevelingAlarm</string>
+    <string name="title_setting">Setting</string>
+    <string name="Level">Lv.</string>
+</resources>
